@@ -1,2 +1,21 @@
-# linux-user-management-tool
-A Bash scripting project that helps manage Linux users from the terminal.  The tool can add users, delete users, and change passwords automatically.
+# Linux User Management Tool
+
+A simple Linux administration project built using Bash scripting.
+
+## Features
+- Add new users
+- Delete existing users
+- Change user passwords
+- Menu-driven interface
+
+## Technologies Used
+- Linux
+- Bash
+- Ubuntu
+
+## Project Structure
+
+``` id="7dsgyu"
+UserManagement/
+├── user_manage.sh
+└── README.md
